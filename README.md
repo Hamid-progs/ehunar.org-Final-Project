@@ -1,4 +1,4 @@
-# ehunar.org-Final-Project  
+# eHunar.org-Final-Project  
 **Data Science, AI, and Machine Learning**
 
 # 🎓 Final Project — AI, ML & Data Science (eHunar.org)
